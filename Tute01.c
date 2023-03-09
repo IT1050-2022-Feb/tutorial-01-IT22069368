@@ -18,7 +18,7 @@ int main() {
    
    avg=sum/2.0; //Calculating the average
    
-   printf("Average is %f",avg); //Printing the average
+   printf("Average is %.2f",avg); //Printing the average
    
   return 0;
 } //End of main function
